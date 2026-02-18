@@ -51,12 +51,5 @@ https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-## 📊 Estatísticas do GitHub
-![Fábio's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabiogarcia-dev&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiogarcia-dev&layout=compact&theme=dracula)
-
----
 ✨ Sempre aprendendo, sempre evoluindo!
 
